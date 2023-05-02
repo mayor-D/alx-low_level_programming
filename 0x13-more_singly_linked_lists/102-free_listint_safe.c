@@ -6,9 +6,6 @@
  *
  * Return: number of elements in the freed list
  */
- /*
-*project
-*/
 size_t free_listint_safe(listint_t **h)
 {
 	size_t len = 0;
@@ -39,5 +36,4 @@ size_t free_listint_safe(listint_t **h)
 
 	return (len);
 }
-
 
