@@ -5,7 +5,9 @@
  * free_listint2 - Frees a list.
  * @head: Address of the first node of a list.
  **/
-
+/*
+*project
+*/
 void free_listint2(listint_t **head)
 {
 	listint_t *temp;
