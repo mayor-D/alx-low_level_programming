@@ -6,9 +6,6 @@
  * @head: Address of the first node of the list.
  * Return: Integer.
  **/
- /*
-*project
-*/
 
 int sum_listint(listint_t *head)
 {
@@ -22,4 +19,3 @@ int sum_listint(listint_t *head)
 	return (total);
 }
 
-Footer
