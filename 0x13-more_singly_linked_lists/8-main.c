@@ -8,9 +8,6 @@
  *
  * Return: Always 0.
  */
- /*
-*project
-*/
 int main(void)
 {
     listint_t *head;
