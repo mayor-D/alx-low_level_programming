@@ -7,6 +7,9 @@
  * @index: Position of the node to delete.
  * Return: If success (1).
  **/
+ /*
+*project
+*/
 
 int delete_nodeint_at_index(listint_t **head, unsigned int index)
 {
