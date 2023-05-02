@@ -3,8 +3,16 @@
 #include <stdio.h>
 #include "lists.h"
 
+
+
 /**
- * main
+ * main - check the code
+ * 
+ * Return: Always 0.
+ */
+
+/*
+ * project
  */
 int main(void)
 {
@@ -28,3 +36,4 @@ int main(void)
     free(new);
     return (0);
 }
+
