@@ -6,6 +6,9 @@
  * @head: Pointer to a list.
  * Return: Integer if success.
  **/
+ /*
+*project
+*/
 
 int pop_listint(listint_t **head)
 {
