@@ -4,8 +4,13 @@
 #include "lists.h"
 
 /**
- * main - check the code for Holberton project
- * */
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
+ /*
+*project
+*/
 int main(void)
 {
     listint_t *head;
