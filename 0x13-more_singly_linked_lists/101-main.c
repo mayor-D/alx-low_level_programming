@@ -4,10 +4,8 @@
 #include "lists.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+ * main - check project
+ * */
 int main(void)
 {
     listint_t *head;
